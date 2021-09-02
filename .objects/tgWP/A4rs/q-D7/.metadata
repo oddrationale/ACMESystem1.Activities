@@ -1,0 +1,15 @@
+﻿{
+  "Id": "q-D77f9dWEOlYwEFccfKRw",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/q-D77f9dWEOlYwEFccfKRw",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/A4rsgHHpcUCYWuybI8t_Rg",
+  "Name": "Login",
+  "Type": "Screen",
+  "Created": "2021-05-15T20:28:05.7564914Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-15T20:30:38.9993109Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

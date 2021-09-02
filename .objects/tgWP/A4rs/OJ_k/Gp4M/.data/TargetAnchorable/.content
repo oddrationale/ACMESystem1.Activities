@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/work-items/59417507" ContentHash="2_E-IvOPDki55mYNHv7SXQ" DesignTimeRectangle="499, 410, 373, 60" ElementType="Text" FriendlyName="'Client ID:'" FullSelectorArgument="&lt;webctrl tag='P' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='P' /&gt;" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0ZTlyJbqTskKQcL_tY94Z5Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e999bd0cbfccffc29b14c89e3ead3f20.png" xmlns="">07pVzyUrVIUaWX12ERerOiA</imageRef>
+</TargetAnchorable>

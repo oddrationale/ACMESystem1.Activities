@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="AVIeHjuDlEeGthfLgF1RYg" DesignTimeRectangle="1112, 152, 64, 32" ElementType="Button" FriendlyName="'push button OK'" FullSelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='msedge.exe' title='* - Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">02H3rWTNY3UGHu7Akg12IsQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ed36a971ab4d0b614864962554aa1f1d.png" xmlns="">07Anlq82apUSdelD3Oxwqsg</imageRef>
+</TargetAnchorable>

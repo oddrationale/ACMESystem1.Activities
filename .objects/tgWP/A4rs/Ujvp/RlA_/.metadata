@@ -1,0 +1,14 @@
+﻿{
+  "Id": "RlA_QLf6vECxb-Rr0m4AuQ",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/RlA_QLf6vECxb-Rr0m4AuQ",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/Ujvp1t8cTkOwneERK8xdqQ",
+  "Name": "Work Items Table",
+  "Type": "Element",
+  "TaxonomyType": "Table",
+  "Created": "2021-05-15T20:50:35.7858086Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-15T20:50:35.7858086Z"
+}

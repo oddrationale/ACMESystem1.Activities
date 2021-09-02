@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="O6F4rFGGo0OSwzxdUiFTsg" DesignTimeRectangle="760, 118, 416, 36" ElementType="Text" FriendlyName="'Report was'" FullSelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='Report was uploaded - confirmation id is *' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='Report was uploaded - confirmation id is *' role='text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Upload Yearly Report and 1 more page - Work - Mi*' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0Il4HZFevP0ykKfOVWPuQBQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="89df7b5fadbb992ee42e6b0792f69003.png" xmlns="">0IIb1he-6pE6CmJt1jmLdfA</imageRef>
+</TargetAnchorable>

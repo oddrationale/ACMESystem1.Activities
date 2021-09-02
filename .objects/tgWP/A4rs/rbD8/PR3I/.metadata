@@ -1,0 +1,16 @@
+﻿{
+  "Id": "PR3IOgOyU0-DTqcgRxMqbA",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/PR3IOgOyU0-DTqcgRxMqbA",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/rbD8Nye10kuDEX33F9ePHQ",
+  "Name": "New Status",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2021-05-15T21:17:38.6889636Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-15T21:18:03.7205959Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

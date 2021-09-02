@@ -1,0 +1,13 @@
+﻿{
+  "Id": "72Tq-2hawUmdvGb3A5YHww",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/72Tq-2hawUmdvGb3A5YHww",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/X1GAphqogkCheXEDpJhWRQ",
+  "Name": "Vendor Information",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2021-05-16T19:39:21.3320247Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-16T19:39:21.3320247Z"
+}

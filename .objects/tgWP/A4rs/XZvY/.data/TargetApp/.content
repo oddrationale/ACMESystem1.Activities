@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="pEdKdMY7PkiFxkR4BlB1ZA" FilePath="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" Reference="Yw3RLhKdr06sSHSaCgDoxg/XZvYk6R10UGYQa8mW_N_PQ" Selector="&lt;wnd app='msedge.exe' cls='#32770' title='Open' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">059PpEAid50mcPBqRh2pyMw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="913ca1dcff24999073671154c5ad7c46.png" xmlns="">0Fc2Fo4cxv06_WPo6ABQ3Pg</imageRef>
+</TargetApp>

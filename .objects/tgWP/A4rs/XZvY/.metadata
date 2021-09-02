@@ -1,0 +1,15 @@
+﻿{
+  "Id": "XZvYk6R10UGYQa8mW_N_PQ",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/XZvYk6R10UGYQa8mW_N_PQ",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/A4rsgHHpcUCYWuybI8t_Rg",
+  "Name": "Open File Dialog",
+  "Type": "Screen",
+  "Created": "2021-05-16T19:29:56.5882906Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-16T19:35:08.2765311Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

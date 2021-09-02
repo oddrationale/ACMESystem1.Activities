@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Gp4M3_yxzk-nrToM7Zvrmw",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/Gp4M3_yxzk-nrToM7Zvrmw",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/OJ_kZCgxUEu2S6rF3Mcs5Q",
+  "Name": "Client Information Details",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2021-05-15T21:17:38.2918897Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-15T21:17:38.2918897Z"
+}

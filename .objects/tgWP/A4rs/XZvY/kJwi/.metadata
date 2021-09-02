@@ -1,0 +1,16 @@
+﻿{
+  "Id": "kJwi7Xf9NUqkvt_7f-VO3Q",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/kJwi7Xf9NUqkvt_7f-VO3Q",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/XZvYk6R10UGYQa8mW_N_PQ",
+  "Name": "Open",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-05-16T19:33:54.2275253Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-16T19:34:55.8054936Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Edge" ContentHash="f_978G1ZTkivW3YCEarjTw" Reference="Yw3RLhKdr06sSHSaCgDoxg/rbD8Nye10kuDEX33F9ePHQ" Selector="&lt;html app='msedge.exe' title='ACME System 1' /&gt;" Url="https://acme-test.uipath.com/work-items/update/{{WorkItemID}}" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0SGcj7irsSEG13Vnuwoe0vQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9e782714f99edfe221334d6f0ec2ec64.png" xmlns="">0zL7gQ1E1V0CrMjHic5tm-Q</imageRef>
+</TargetApp>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "xiEH33OHf0KPL22oHtC7rw",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/xiEH33OHf0KPL22oHtC7rw",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/BMVQYTB1RkOywxcOriUUww",
+  "Name": "Download Report",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-05-16T19:17:15.2028964Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-16T19:17:29.2838213Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

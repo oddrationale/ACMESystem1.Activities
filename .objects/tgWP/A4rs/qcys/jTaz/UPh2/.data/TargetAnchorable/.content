@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="fzEyBNWqdkqqMwYfM2RoBQ" DesignTimeRectangle="1112, 170, 64, 32" ElementType="Button" FriendlyName="'push button OK'" FullSelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Upload Yearly Report and 1 more page - Work - Mi*' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0Bpw8zZt1oE-h8-4KcRQjTQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e88cbaff6d77752afd9cfc420190bb04.png" xmlns="">0aQl3EkETlk2ai_rXn9bk2Q</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/work-items/67934927" ContentHash="YofwBrHUTUCCkNcEpp2MtQ" DesignTimeRectangle="499, 410, 373, 80" ElementType="Text" FriendlyName="'TaxID: FR322345'" FullSelectorArgument="&lt;webctrl tag='P' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='P' type='' check:text='TaxID: FR322345&amp;#xA;                            Name: Miditronic Technologies&amp;#xA;                         ' /&gt;" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="499, 381, 373, 19" FriendlyName="'Vendor Information'" FullSelectorArgument="&lt;webctrl tag='H4' aaname='Vendor Information' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H4' type='' aaname='Vendor Information' check:text='Vendor Information' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1jyq1rSlrpkCduJAhRyOCNw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0vImOfcAx7Ey-xWNrfDyoTw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ebb23ce9c7eeb261731cf04c3c9a1f9a.png" xmlns="">0F-CfS4117Uywg5snn6jlXw</imageRef>
+</TargetAnchorable>

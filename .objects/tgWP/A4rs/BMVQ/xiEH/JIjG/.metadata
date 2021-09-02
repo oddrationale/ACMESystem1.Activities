@@ -1,0 +1,16 @@
+﻿{
+  "Id": "JIjGWFEasEmjj5vmHaBbUQ",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/JIjGWFEasEmjj5vmHaBbUQ",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/xiEH33OHf0KPL22oHtC7rw",
+  "Name": "Pop-up",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-05-16T19:27:42.5423732Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-16T19:28:09.4449912Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

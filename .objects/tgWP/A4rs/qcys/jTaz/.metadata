@@ -1,0 +1,16 @@
+﻿{
+  "Id": "jTazwEMB8kOmuKBT8ZYSmQ",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/jTazwEMB8kOmuKBT8ZYSmQ",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/qcysRZVqL0maoB2En94FFg",
+  "Name": "Upload Report",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-05-16T19:21:12.0890241Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-16T19:22:04.9147493Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

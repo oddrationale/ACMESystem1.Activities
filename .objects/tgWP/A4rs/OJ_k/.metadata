@@ -1,0 +1,15 @@
+﻿{
+  "Id": "OJ_kZCgxUEu2S6rF3Mcs5Q",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/OJ_kZCgxUEu2S6rF3Mcs5Q",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/A4rsgHHpcUCYWuybI8t_Rg",
+  "Name": "WI5 Details",
+  "Type": "Screen",
+  "Created": "2021-05-15T20:53:00.3379345Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-15T20:53:49.373131Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Edge" ContentHash="SUmbaih9R0S1KO6zhlbmqQ" Reference="Yw3RLhKdr06sSHSaCgDoxg/BMVQYTB1RkOywxcOriUUww" Selector="&lt;html app='msedge.exe' title='ACME System 1 - Download Monthly Report' /&gt;" Url="https://acme-test.uipath.com/reports/download" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0l3XBt_MRKk-s6C-CF-6O0g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4df3d89e572b5bf0d85cd603f1c29bb6.png" xmlns="">00qCbdHnJ-kG2mWWtXeUOvg</imageRef>
+</TargetApp>

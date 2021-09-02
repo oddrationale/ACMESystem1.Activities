@@ -1,0 +1,15 @@
+﻿{
+  "Id": "qcysRZVqL0maoB2En94FFg",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/qcysRZVqL0maoB2En94FFg",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/A4rsgHHpcUCYWuybI8t_Rg",
+  "Name": "Upload Yearly Report",
+  "Type": "Screen",
+  "Created": "2021-05-16T19:18:05.8938041Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-16T19:21:02.6993583Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

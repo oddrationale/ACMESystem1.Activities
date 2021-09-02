@@ -1,0 +1,13 @@
+﻿{
+  "Id": "sJVuzhkLPUKgABVOqk96bg",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/sJVuzhkLPUKgABVOqk96bg",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/BMVQYTB1RkOywxcOriUUww",
+  "Name": "Vendor TaxID",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2021-05-16T19:13:48.1671975Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-16T19:13:48.1671975Z"
+}

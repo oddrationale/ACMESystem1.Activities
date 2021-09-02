@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/reports/upload" ContentHash="thPghMpG3E25-JUZyIQpgA" DesignTimeRectangle="468, 492, 137, 34" ElementType="Text" FriendlyName="'C:\fakepath\Report-FR32…'" FullSelectorArgument="&lt;webctrl tag='LABEL' class='btn btn-default' parentid='searchForm' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' class='btn btn-default' parentid='searchForm' type='' aaname='                                                  Select Report File                     ' check:text='C:\fakepath\Report-FR322345-1.csv&amp;#xA;                        Select Report File' /&gt;" Reference="Yw3RLhKdr06sSHSaCgDoxg/P9s5vdXIEk6TstZE5O2XTQ" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Upload Yearly Report' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0riGWUc6HN0a6pqC3JR2Tyg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e335d75cc44eee43d405b8d9686a52a5.png" xmlns="">0LVTNevfH7U2Nkn4pSngqaw</imageRef>
+</TargetAnchorable>

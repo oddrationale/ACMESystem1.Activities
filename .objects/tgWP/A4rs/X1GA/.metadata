@@ -1,0 +1,12 @@
+﻿{
+  "Id": "X1GAphqogkCheXEDpJhWRQ",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/X1GAphqogkCheXEDpJhWRQ",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/A4rsgHHpcUCYWuybI8t_Rg",
+  "Name": "WI4 Details",
+  "Type": "Screen",
+  "Created": "2021-05-16T19:38:59.1737158Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-16T19:38:59.1737158Z"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/reports/download" ContentHash="ed-ZzGxI5Uy7hgnEj2NZlg" DesignTimeRectangle="578, 443, 1, 34" ElementType="Button" FriendlyName="'January'" FullSelectorArgument="&lt;webctrl id='reportMonth' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='reportMonth' tag='SELECT' check:text='January' /&gt;" Reference="Yw3RLhKdr06sSHSaCgDoxg/P_ETlEzuq0Gt1UfmD0ZNCQ" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="468, 418, 47, 20" ElementType="Text" FriendlyName="'Month'" FullSelectorArgument="&lt;webctrl aaname='Month:' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Month:' tag='LABEL' type='' check:text='Month:' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">2fAkVNuD5o02h3H2yxI6N8g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">01svmqv71GkattWssJryhdw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="67a6a2e17620a93e447ff392746a4d77.png" xmlns="">0P0NHADfXtkOtTaiogMzvwA</imageRef>
+</TargetAnchorable>

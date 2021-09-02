@@ -1,0 +1,17 @@
+﻿{
+  "Id": "P9s5vdXIEk6TstZE5O2XTQ",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/P9s5vdXIEk6TstZE5O2XTQ",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/qcysRZVqL0maoB2En94FFg",
+  "Name": "Select Report File",
+  "Description": "Only works with Send Window Message",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-05-16T19:21:10.4572512Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-16T20:22:39.3664251Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

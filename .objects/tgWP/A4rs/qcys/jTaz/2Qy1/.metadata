@@ -1,0 +1,16 @@
+﻿{
+  "Id": "2Qy1km24AUOyxLXB5zyKiw",
+  "Reference": "Yw3RLhKdr06sSHSaCgDoxg/2Qy1km24AUOyxLXB5zyKiw",
+  "ParentRef": "Yw3RLhKdr06sSHSaCgDoxg/jTazwEMB8kOmuKBT8ZYSmQ",
+  "Name": "Confirmation Text",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2021-05-16T19:59:37.2699932Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-16T20:00:37.2635379Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
