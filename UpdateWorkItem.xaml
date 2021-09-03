@@ -10,7 +10,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>969,1674</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>927,1574</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>UpdateWI5_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -77,7 +77,7 @@
       <AssemblyReference>System.Memory</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="Description:&#xA;Update the Work Item.&#xD;&#xA;&#xA;Pre-conditions:&#xA;On the Update Work Item screen.&#xA;&#xA;Post-conditions:&#xA;Work Item is updated." DisplayName="UpdateWI5" sap:VirtualizedContainerService.HintSize="476,1509" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="Description:&#xA;Update the Work Item.&#xA;&#xA;Pre-conditions:&#xA;On the Update Work Item screen.&#xA;&#xA;Post-conditions:&#xA;Work Item is updated." DisplayName="UpdateWI5" sap:VirtualizedContainerService.HintSize="476,1509" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
